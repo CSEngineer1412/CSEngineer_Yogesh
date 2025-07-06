@@ -3,7 +3,7 @@
 💼 Data & Cloud Engineer | AWS & Databricks Certified | Python | SQL  
 📍 India | 📧 yogeshgr98@gmail.com | 📞 +91-9754571228  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yogesh-ghritlahare/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/CSEngineer1412)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/CSEngineer1412/CSEngineer_Yogesh/blob/main/README.md)
 
 ---
 
@@ -74,5 +74,5 @@ A scalable ETL pipeline using AWS Lambda, Glue, Step Functions, and S3 for event
 
 - 📩 yogeshgr98@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/yogesh-ghritlahare/)  
-- 🔗 [GitHub](https://github.com/CSEngineer1412)
+- 🔗 [GitHub](https://github.com/CSEngineer1412/CSEngineer_Yogesh/blob/main/README.md)
 
