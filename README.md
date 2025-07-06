@@ -74,5 +74,5 @@ A scalable ETL pipeline using AWS Lambda, Glue, Step Functions, and S3 for event
 
 - 📩 yogeshgr98@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/yogesh-ghritlahare/)  
-- 🔗 [GitHub](https://github.com/CSEngineer1412/CSEngineer_Yogesh/)
+- 🔗 [GitHub](https://github.com/CSEngineer1412/)
 
